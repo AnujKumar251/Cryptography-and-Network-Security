@@ -1,21 +1,38 @@
-Cryptography & Network Security Codes
-Program List:
-Caesar Cipher
+# Cryptography and Network Security
 
-Hill Cipher
+## Cryptography & Network Security Codes
 
-Playfair Cipher
+## Program List:
 
-Vigenere Cipher
+1. **Caesar Cipher**
 
-Rail Fence - row & Column Transformation
+2. **Hill Cipher**
 
-RSA Algorithm
+3. **Playfair Cipher**
 
-Diffie-Hellman
+4. **Vigenere Cipher**
 
-MD5
+5. **Rail Fence - row & Column Transformation**
 
-SHA_1
+6. **RSA Algorithm**
 
-DES
+7. **Diffie-Hellman**
+
+8. **MD5**
+
+9. **SHA_1**
+
+10. **DES**
+
+
+
+
+
+
+
+
+
+
+
+
+
